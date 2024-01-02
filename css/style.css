@@ -1,0 +1,19 @@
+
+body{
+	background-color: red;
+}
+.colors{
+	width: 200px;
+	height: 100px;
+	background-color: white;
+	transition: background-color 1s;
+}
+
+.colorsGreen{
+	width: 200px;
+	height: 100px;
+	background-color: green;
+	transition: background-color 1s
+
+}
+
